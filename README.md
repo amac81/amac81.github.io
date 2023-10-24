@@ -1,6 +1,7 @@
 # amac81.github.io
-My pages
+
+Access my portfolio of Front End projects:
 
 https://amac81.github.io
 
-Links to my frontend projects
+
